@@ -71,7 +71,7 @@ Keep it crisp. Update "Now" quarterly. Pin 6 best repos.
 - **Evaluation** (red-teaming, human-in-the-loop feedback)  
 - **Data engines** (collection → labeling → QA → licensing)
 
-### 📫 Contact
+### Contact
 - Email: `bodhisilberling@berkeley.edu`
 - Calendly: `https://calendly.com/silberlings2/30min` (15-min intro)
 - If you’re building in govtech, fintech, or AI infra, say hi.
