@@ -6,15 +6,15 @@ Keep it crisp. Update "Now" quarterly. Pin 6 best repos.
 <h1 align="center">Bodhi Silberling</h1>
 
 <p align="center">
-  Data Science & Economics @ UC Berkeley · AI product builder · Research + GTM · Bay Area
+  Data Science & Economics @ UC Berkeley · AI Researcher · Co-Founder · Bay Area
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-Contacts-blue?logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="https://X.com/YOUR_TWITTER"><img alt="X" src="https://img.shields.io/badge/Follow-@YOUR_TWITTER-111?logo=x"></a>
-  <a href="https://bodhi.dev"><img alt="Site" src="https://img.shields.io/badge/Website-bodhi.dev-000"></a>
-  <img alt="Views" src="https://komarev.com/ghpvc/?username=YOUR_GH_USERNAME&style=flat&color=blue">
+  <a href="mailto:bodhisilberling@berkeley.edu"><img alt="Email" src="https://img.shields.io/badge/Email-Contacts-blue?logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/bodhisilberling/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://X.com/bodhisilberling"><img alt="X" src="https://img.shields.io/badge/Follow-@YOUR_TWITTER-111?logo=x"></a>
+  <a href="https://bodhisilberling.net"><img alt="Site" src="https://img.shields.io/badge/Website-bodhi.dev-000"></a>
+  <img alt="Views" src="https://komarev.com/ghpvc/?username=bodhisilberling-2027&style=flat&color=blue">
 </p>
 
 ---
@@ -65,15 +65,10 @@ Keep it crisp. Update "Now" quarterly. Pin 6 best repos.
 > Tip: Pin these 6, add crisp READMEs, and include screenshots/gifs in `/docs`.
 
 ### 📈 Stats (because everyone asks)
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GH_USERNAME&show_icons=true&hide_title=true&count_private=true" alt="GitHub stats" />
-</p>
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GH_USERNAME" alt="GitHub Streak" />
-</p>
-<!-- Optional: WakaTime -->
-<!-- <p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME&layout=compact"></p> -->
-
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
 ### 🗺️ Talks, Papers & Notes
 - **LLM Psychophancy & Alignment Drift** — measurement suite + mitigation notes (in progress)  
 - Course/research notes across **political economy, finance, and ML** (see `/notes`)
