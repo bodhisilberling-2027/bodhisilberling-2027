@@ -1,7 +1,7 @@
-<!--
-Tip: this README lives at github.com/<your-username>/<your-username>
-Keep it crisp. Update "Now" quarterly. Pin 6 best repos.
--->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif
+" width="100%">
+</p>
 
 <h1 align="center">Bodhi Silberling</h1>
 
@@ -20,8 +20,6 @@ Keep it crisp. Update "Now" quarterly. Pin 6 best repos.
 ---
 
 > *“There is nothing more dreadful than the habit of doubt. Doubt separates people. It is a poison that disintegrates friendships and breaks up pleasant relations. It is a thorn that irritates and hurts; it is a sword that kills.” - Gautama Buddha*
-
-![banner](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)
 
 ### Now
 - Building AI assistants + agentic systems for **ops-heavy, regulated** workflows  
