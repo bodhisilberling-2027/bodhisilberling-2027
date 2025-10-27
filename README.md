@@ -19,7 +19,7 @@ Keep it crisp. Update "Now" quarterly. Pin 6 best repos.
 
 ---
 
-> *“It’s that quiet moment when everything clicks, and the solution feels like it was always there, just waiting to be found.”*
+> *“There is nothing more dreadful than the habit of doubt. Doubt separates people. It is a poison that disintegrates friendships and breaks up pleasant relations. It is a thorn that irritates and hurts; it is a sword that kills.” - Gautama Buddha*
 
 ### Now
 - Building AI assistants + agentic systems for **ops-heavy, regulated** workflows  
@@ -62,13 +62,6 @@ Keep it crisp. Update "Now" quarterly. Pin 6 best repos.
 | **vector-starter** | pgvector schemas, chunking, hybrid search, guards | Opinionated retrieval starter kit |
 | **rag-monitor** | Traces, metrics, feedback API, red-team prompts | Keep systems honest in prod |
 
-> Tip: Pin these 6, add crisp READMEs, and include screenshots/gifs in `/docs`.
-
-### Stats (because everyone asks)
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
-</div>
 ### Talks, Papers & Notes
 - **LLM Psychophancy & Alignment Drift** — measurement suite + mitigation notes (in progress)  
 - Course/research notes across **political economy, finance, and ML** (see `/notes`)
