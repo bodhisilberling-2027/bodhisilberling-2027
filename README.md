@@ -21,12 +21,12 @@ Keep it crisp. Update "Now" quarterly. Pin 6 best repos.
 
 > *“It’s that quiet moment when everything clicks, and the solution feels like it was always there, just waiting to be found.”*
 
-### 🧭 Now
+### Now
 - Building AI assistants + agentic systems for **ops-heavy, regulated** workflows  
 - Shipping fast with **Python, TypeScript/Node, FastAPI, Next.js, Postgres, pgvector**, and modern LLM/runtime stacks  
 - Research interests: **LLM reliability (psychophancy), evals, retrieval, voice agents, tool-use**
 
-### 🚀 Selected Projects
+### Selected Projects
 - **CityGPT / CivicVoice** — Municipal AI assistant + voice agent for city services  
   _RAG over city codes & docs · 311 intake · permitting workflows · calendar + email actions_
 - **Proxy** — Board/GP copilot for governance materials  
@@ -36,7 +36,7 @@ Keep it crisp. Update "Now" quarterly. Pin 6 best repos.
 
 > Repos pinned below include: infra scaffolds, vector/RAG patterns, voice agent MVPs, and evaluation tooling.
 
-### 🧰 Toolbox
+### Toolbox
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
@@ -52,7 +52,7 @@ Keep it crisp. Update "Now" quarterly. Pin 6 best repos.
   <img src="https://img.shields.io/badge/Twilio-FF0000?logo=twilio&logoColor=white">
 </p>
 
-### 📌 Pinboard (high-signal repos)
+### Pinboard (high-signal repos)
 | Repo | What it has | Why it’s useful |
 |---|---|---|
 | **citygpt-core** | RAG over municipal code, retrieval/evals, action agents | Production patterns for gov workflows |
@@ -64,25 +64,21 @@ Keep it crisp. Update "Now" quarterly. Pin 6 best repos.
 
 > Tip: Pin these 6, add crisp READMEs, and include screenshots/gifs in `/docs`.
 
-### 📈 Stats (because everyone asks)
+### Stats (because everyone asks)
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
 </div>
-### 🗺️ Talks, Papers & Notes
+### Talks, Papers & Notes
 - **LLM Psychophancy & Alignment Drift** — measurement suite + mitigation notes (in progress)  
 - Course/research notes across **political economy, finance, and ML** (see `/notes`)
 
-### 🤝 I like collaborating on
+### I like collaborating on
 - **Agent + tool-use** in real operational environments  
 - **Evaluation** (red-teaming, human-in-the-loop feedback)  
 - **Data engines** (collection → labeling → QA → licensing)
 
 ### 📫 Contact
-- Email: `YOUR_EMAIL`
-- Calendly: `YOUR_CALENDLY_LINK` (15-min intro)
+- Email: `bodhisilberling@berkeley.edu`
+- Calendly: `https://calendly.com/silberlings2/30min` (15-min intro)
 - If you’re building in govtech, fintech, or AI infra, say hi.
-
----
-
-<sub>Made with intention. If something here helps you ship faster, I’m happy.</sub>
