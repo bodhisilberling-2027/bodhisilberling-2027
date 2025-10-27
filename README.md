@@ -21,6 +21,8 @@ Keep it crisp. Update "Now" quarterly. Pin 6 best repos.
 
 > *“There is nothing more dreadful than the habit of doubt. Doubt separates people. It is a poison that disintegrates friendships and breaks up pleasant relations. It is a thorn that irritates and hurts; it is a sword that kills.” - Gautama Buddha*
 
+https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif
+
 ### Now
 - Building AI assistants + agentic systems for **ops-heavy, regulated** workflows  
 - Shipping fast with **Python, TypeScript/Node, FastAPI, Next.js, Postgres, pgvector**, and modern LLM/runtime stacks  
