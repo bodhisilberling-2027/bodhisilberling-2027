@@ -20,13 +20,8 @@
 
 > *“There is nothing more dreadful than the habit of doubt. Doubt separates people. It is a poison that disintegrates friendships and breaks up pleasant relations. It is a thorn that irritates and hurts; it is a sword that kills.” - Gautama Buddha*
 
-### Now
-- Building AI assistants + agentic systems for **ops-heavy, regulated** workflows  
-- Shipping fast with **Python, TypeScript/Node, FastAPI, Next.js, Postgres, pgvector**, and modern LLM/runtime stacks  
-- Research interests: **LLM reliability (psychophancy), evals, retrieval, voice agents, tool-use**
-
 ### Selected Projects
-- **CityGPT / CivicVoice** — Municipal AI assistant + voice agent for city services  
+- **Municipa** — Municipal AI assistant + voice agent for city services  
   _RAG over city codes & docs · 311 intake · permitting workflows · calendar + email actions_
 - **Proxy** — Board/GP copilot for governance materials  
   _Risk flags, deltas vs prior filings, board questions; privacy-first ingestion & report packs_
@@ -50,25 +45,6 @@
   <img src="https://img.shields.io/badge/ElevenLabs-111">
   <img src="https://img.shields.io/badge/Twilio-FF0000?logo=twilio&logoColor=white">
 </p>
-
-### Pinboard (high-signal repos)
-| Repo | What it has | Why it’s useful |
-|---|---|---|
-| **citygpt-core** | RAG over municipal code, retrieval/evals, action agents | Production patterns for gov workflows |
-| **voice-agent-mvp** | Twilio → Whisper → GPT-4o → ElevenLabs loop | Minimal, deployable voice receptionist |
-| **proxy-governance-copilot** | SEC/board deck diffing, risk flags, report generator | Board-ready prep packs in minutes |
-| **evals-lab** | Psychophancy & reliability eval harness + datasets | Repro loops for LLM behavior studies |
-| **vector-starter** | pgvector schemas, chunking, hybrid search, guards | Opinionated retrieval starter kit |
-| **rag-monitor** | Traces, metrics, feedback API, red-team prompts | Keep systems honest in prod |
-
-### Talks, Papers & Notes
-- **LLM Psychophancy & Alignment Drift** — measurement suite + mitigation notes (in progress)  
-- Course/research notes across **political economy, finance, and ML** (see `/notes`)
-
-### I like collaborating on
-- **Agent + tool-use** in real operational environments  
-- **Evaluation** (red-teaming, human-in-the-loop feedback)  
-- **Data engines** (collection → labeling → QA → licensing)
 
 ### Contact
 - Email: `bodhisilberling@berkeley.edu`
