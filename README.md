@@ -23,7 +23,7 @@
 ### Selected Projects
 - **Municipa** — Municipal AI assistant + voice agent for city services  
   _RAG over city codes & docs · 311 intake · permitting workflows · calendar + email actions_
-- **Proxy** — Board/GP copilot for governance materials  
+- **Oath** — Board/GP copilot for governance materials  
   _Risk flags, deltas vs prior filings, board questions; privacy-first ingestion & report packs_
 - **Subliminal** — “Physical AI” data engine for robotics  
   _High-fidelity task data from skilled trades; dataset ops + QA, licensing workflow_
