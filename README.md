@@ -30,5 +30,4 @@
 
 ### Contact
 - Email: `bodhisilberling@berkeley.edu`
-- Calendly: `https://calendly.com/silberlings2/30min` (15-min intro)
-- If you’re building in govtech, fintech, or AI infra, say hi.
+- Calendly: `https://calendly.com/silberlings2/30min`
