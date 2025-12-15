@@ -5,30 +5,12 @@
 <h1 align="center">Bodhi Silberling</h1>
 
 <p align="center">
-  Data Science & Economics @ UC Berkeley · AI Researcher · Co-Founder · Bay Area
-</p>
-
-<p align="center">
   <a href="mailto:bodhisilberling@berkeley.edu"><img alt="Email" src="https://img.shields.io/badge/Email-Contacts-blue?logo=gmail"></a>
   <a href="https://www.linkedin.com/in/bodhisilberling/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="https://X.com/bodhisilberling"><img alt="X" src="https://img.shields.io/badge/Follow-@YOUR_TWITTER-111?logo=x"></a>
   <a href="https://bodhisilberling.net"><img alt="Site" src="https://img.shields.io/badge/Website-bodhi.dev-000"></a>
   <img alt="Views" src="https://komarev.com/ghpvc/?username=bodhisilberling-2027&style=flat&color=blue">
 </p>
-
----
-
-> *“There is nothing more dreadful than the habit of doubt. Doubt separates people. It is a poison that disintegrates friendships and breaks up pleasant relations. It is a thorn that irritates and hurts; it is a sword that kills.” - Gautama Buddha*
-
-### Selected Projects
-- **Municipa** — Municipal AI assistant + voice agent for city services  
-  _RAG over city codes & docs · 311 intake · permitting workflows · calendar + email actions_
-- **Oath** — Board/GP copilot for governance materials  
-  _Risk flags, deltas vs prior filings, board questions; privacy-first ingestion & report packs_
-- **Subliminal** — “Physical AI” data engine for robotics  
-  _High-fidelity task data from skilled trades; dataset ops + QA, licensing workflow_
-
-> Repos pinned below include: infra scaffolds, vector/RAG patterns, voice agent MVPs, and evaluation tooling.
 
 ### Toolbox
 <p>
